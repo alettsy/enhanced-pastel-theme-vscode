@@ -1,0 +1,21 @@
+{
+    "name": "enhanced-pastel",
+    "displayName": "Enhanced Pastel",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Enhanced Pastel",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Enhanced Pastel-color-theme.json"
+            }
+        ]
+    }
+}
