@@ -1,5 +1,5 @@
 {
-	"name": "Enhanced Pastel",
+	"name": "Enhanced Material - Fork",
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
@@ -1812,7 +1812,7 @@
 		"button.secondaryForeground": "#ffffff",
 		"button.secondaryBackground": "#3a3d41",
 		"button.secondaryHoverBackground": "#45494e",
-		"input.background": "#3c3c3c",
+		"input.background": "#292c3e",
 		"input.border": "#00000000",
 		"input.foreground": "#cccccc",
 		"inputOption.activeBackground": "#007fd466",
@@ -1982,10 +1982,10 @@
 		"peekViewTitleDescription.foreground": "#ccccccb3",
 		"peekViewTitleLabel.foreground": "#cbfdff",
 		"icon.foreground": "#ffabab",
-		"checkbox.background": "#3c3c3c",
+		"checkbox.background": "#292c3e",
 		"checkbox.foreground": "#cccccc",
 		"checkbox.border": "#00000000",
-		"dropdown.background": "#3c3c3c",
+		"dropdown.background": "#292c3e",
 		"dropdown.foreground": "#cccccc",
 		"dropdown.border": "#00000000",
 		"minimapGutter.addedBackground": "#55ba0f",
