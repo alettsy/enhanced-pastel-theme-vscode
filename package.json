@@ -3,6 +3,7 @@
     "displayName": "Enhanced Pastel",
     "description": "",
     "version": "0.0.1",
+	"repository": "https://github.com/hexbun/enhanced-pastel-theme-vscode",
     "engines": {
         "vscode": "^1.65.0"
     },
